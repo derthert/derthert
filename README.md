@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emirhan (aka **emirkwia**)
+# 👋 Hi, I'm Emirhan (aka **derthert**)
 
 ### 🌐 Web Developer | 🔧 Minecraft Plugin Developer | 🎨 Creative Developer | 🎮 Server Admin | 📌 Project Coordinator
 
