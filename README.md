@@ -19,8 +19,8 @@
 ---
 
 ## 📬 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/emirkwia)
+[![Discord]([https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/emirkwia](https://discord.com/users/1017095901933748297"))
 
 ---
 
-✨ *“Build. Develop. Manage.”*
+✨ *“Create. Develop. Manage!”*
