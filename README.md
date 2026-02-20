@@ -14,14 +14,6 @@ I build and manage **custom digital ecosystems**, combining game development, ba
 
 ---
 
-## 🧩 Current Focus
-- ⚔️ Advanced Minecraft server systems
-- 🌍 Custom gameplay & economy mechanics
-- 🔗 Web integrations & automation tools
-- 🧠 Clean architecture & maintainable code
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Technologies
@@ -52,8 +44,10 @@ I build and manage **custom digital ecosystems**, combining game development, ba
 ---
 
 ## 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derthert&show_icons=true&hide_border=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=derthert&layout=compact&hide_border=true&theme=transparent)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derthert&show_icons=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=derthert&layout=compact&count_private=true)
 
 ---
 
