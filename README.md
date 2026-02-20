@@ -2,8 +2,6 @@
 
 ### 🌐 Web Geliştirici • 🔧 Minecraft Sistem Geliştiricisi • 🎨 Creative Developer • 📌 Proje Koordinatörü
 
-> *Sadece özellikler değil, sistemler tasarlıyorum.*
-
 ---
 
 ## 🚀 Hakkımda
