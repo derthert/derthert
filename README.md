@@ -2,6 +2,8 @@
 
 ### 🌐 Web Developer • 🔧 Minecraft Systems Developer • 🎨 Creative Developer • 📌 Project Coordinator
 
+> *Designing systems, not just features.*
+
 ---
 
 ## 🚀 About Me
@@ -24,12 +26,35 @@ My long-term goal is to rethink and modernize traditional Minecraft server mecha
 Many systems within the Minecraft ecosystem were designed years ago and often prioritize functionality over usability, scalability, or long-term sustainability. My objective is to redesign these concepts with a **modern development mindset**, focusing on:
 
 - ⚡ Player-first system design and intuitive interactions  
-- 🧠 Smart automation instead of repetitive manual mechanics  
+- 🧠 Smart automation instead of repetitive mechanics  
 - 🔗 Deep integration between gameplay, backend services, and web platforms  
 - 📊 Data-driven balancing and dynamic game economies  
 - 🏗️ Modular, maintainable, and scalable infrastructures  
 
-Rather than simply adding new features, I aim to **re-engineer existing gameplay foundations** into systems that feel modern, responsive, and future-proof for both players and server developers.
+Rather than simply adding new features, I aim to **re-engineer existing gameplay foundations** into systems that feel modern, responsive, and future-proof.
+
+---
+
+<details>
+<summary>🇹🇷 Türkçe Açıklama (görüntülemek için tıkla)</summary>
+
+### 🎯 Vizyon — Yeni Nesil Minecraft Sistemleri
+
+Uzun vadeli hedefim, Minecraft sunucu ekosisteminde yıllardır kullanılan klasik sistemleri yeniden düşünerek oyuncular için **yeni nesil deneyimlere** dönüştürmektir.
+
+Minecraft piyasasındaki birçok mekanik geçmiş yılların tasarım anlayışıyla oluşturulmuştur ve çoğu zaman kullanıcı deneyimi, sürdürülebilirlik veya ölçeklenebilirlik ikinci planda kalır. Amacım bu sistemleri **modern yazılım yaklaşımıyla** yeniden tasarlamaktır.
+
+Odak noktalarım:
+
+- ⚡ Oyuncu odaklı ve sezgisel sistem tasarımı  
+- 🧠 Tekrarlı işlemler yerine akıllı otomasyonlar  
+- 🔗 Oyun içi sistemler ile web ve backend entegrasyonu  
+- 📊 Veri odaklı ekonomi ve dengeleme mekanikleri  
+- 🏗️ Modüler, sürdürülebilir ve ölçeklenebilir altyapılar  
+
+Yeni özellikler eklemekten ziyade, mevcut oyun temellerini yeniden mühendislik anlayışıyla ele alarak daha modern ve geleceğe hazır sistemler oluşturmayı hedefliyorum.
+
+</details>
 
 ---
 
