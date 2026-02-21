@@ -1,37 +1,38 @@
 # 👋 Merhaba, ben Emirhan (aka **derthert**)
 
-### 🌐 Web Geliştirici • 🔧 Minecraft Sistem Geliştiricisi • 🎨 Creative Developer • 📌 Proje Koordinatörü
+### Web Geliştirici • Minecraft Sistem Geliştiricisi • Creative Developer • Proje Koordinatörü
+
+> Çalışmalarımın büyük kısmı private projelerde ve aktif üretim ortamlarında geliştirilmektedir.  
+> Açık kaynakta ise zaman zaman küçük araçlar ve deneysel projeler paylaşırım.
 
 ---
 
 ## 🚀 Hakkımda
-Minecraft ekosistemi başta olmak üzere **ölçeklenebilir oyun sistemleri ve backend tabanlı platformlar** geliştirmeye odaklanan bir geliştiriciyim.
+Minecraft ekosistemi merkezli olmak üzere oyun sistemleri, backend servisleri ve web entegrasyonları geliştiriyorum. Daha çok tek tek özellikler üretmekten ziyade, uzun süre çalışabilecek sistemler kurmaya odaklanıyorum.
 
-Çalışmalarım; **yazılım geliştirme, sistem mimarisi ve proje koordinasyonunu** bir araya getirerek sürdürülebilir ve düzenli dijital altyapılar oluşturmayı hedefler.
+Genelde yaptığım işler:
 
-- 🏗️ Özel Minecraft sunucu sistemleri ve oyun mekanikleri geliştiriyorum  
-- ⚙️ Backend servisleri, otomasyon araçları ve web entegrasyonları oluşturuyorum  
-- 🧩 Performans ve ölçeklenebilirlik odaklı altyapılar tasarlıyorum  
-- 📈 Uzun vadeli projeleri düzenli ve sürdürülebilir mimarilerle yönetiyorum  
+- Minecraft sunucuları için özel sistemler ve oyun mekanikleri geliştirmek  
+- Backend servisleri ve otomasyon süreçleri oluşturmak  
+- Performans ve ölçeklenebilirlik odaklı altyapılar tasarlamak  
+- Uzun vadeli projeleri daha sürdürülebilir hale getirmek  
 
-Çalışmalarımın büyük kısmı **özel (private) veya aktif üretim ortamlarında** geliştirilmektedir. Zaman zaman seçilmiş araçları ve projeleri açık kaynak olarak paylaşırım.
+Projelerimin büyük kısmı canlı ortamlar için geliştirildiği için herkese açık repo sayım sınırlı.
 
 ---
 
 ## 🎯 Vizyon — Yeni Nesil Minecraft Sistemleri
-Uzun vadeli hedefim, Minecraft sunucu ekosisteminde yıllardır kullanılan klasik sistemleri yeniden düşünerek oyuncular için **yeni nesil deneyimlere** dönüştürmektir.
+Minecraft sunucu piyasasında kullanılan birçok sistem yıllar önceki anlayışla tasarlanmış durumda. Çalışmalarımda amacım mevcut sistemlere sadece yeni özellikler eklemek değil, onları modern bir yaklaşımla yeniden düşünmek.
 
-Minecraft piyasasındaki birçok mekanik geçmiş tasarım anlayışlarıyla oluşturulmuştur ve çoğu zaman kullanıcı deneyimi, sürdürülebilirlik veya ölçeklenebilirlik ikinci planda kalır. Amacım bu sistemleri **modern yazılım yaklaşımıyla** yeniden tasarlamaktır.
+Odaklandığım şeyler:
 
-Odak noktalarım:
+- Oyuncu açısından daha anlaşılır ve akıcı sistemler  
+- Gereksiz tekrarları azaltan otomasyonlar  
+- Oyun içi mekaniklerin web ve backend tarafıyla bağlantılı çalışması  
+- Veri odaklı ekonomi ve dengeleme yaklaşımları  
+- Modüler ve uzun vadede yönetilebilir altyapılar  
 
-- ⚡ Oyuncu odaklı ve sezgisel sistem tasarımı  
-- 🧠 Tekrarlı işlemler yerine akıllı otomasyonlar  
-- 🔗 Oyun içi sistemler ile web ve backend entegrasyonu  
-- 📊 Veri odaklı ekonomi ve dengeleme mekanikleri  
-- 🏗️ Modüler, sürdürülebilir ve ölçeklenebilir altyapılar  
-
-Yeni özellikler eklemekten ziyade, mevcut oyun temellerini yeniden mühendislik anlayışıyla ele alarak daha modern ve geleceğe hazır sistemler oluşturmayı hedefliyorum.
+Kısaca hedefim, mevcut sistemleri büyütmekten çok onları **daha modern ve sürdürülebilir hale getirmek**.
 
 ---
 
@@ -49,10 +50,10 @@ Yeni özellikler eklemekten ziyade, mevcut oyun temellerini yeniden mühendislik
 ---
 
 ## 📦 Öne Çıkan Çalışmalar
-- 🔧 Özel Minecraft sunucu sistemleri ve pluginler  
-- 🌐 Web panelleri ve entegrasyonlar  
-- 🤖 Otomasyon ve backend araçları  
-- ⚙️ Altyapı ve sistem mimarisi projeleri  
+- Minecraft sunucu sistemleri ve plugin geliştirme  
+- Web panelleri ve servis entegrasyonları  
+- Otomasyon araçları ve backend çözümleri  
+- Sistem mimarisi ve altyapı tasarımı  
 
 ---
 
@@ -61,29 +62,19 @@ Yeni özellikler eklemekten ziyade, mevcut oyun temellerini yeniden mühendislik
 
 ---
 
-✨ **Create • Develop • Manage**
+Create • Develop • Manage
 
 ---
 
 <details>
-<summary>🇬🇧 English Version (click to expand)</summary>
+<summary>English version</summary>
 
-## 👋 Hi, I'm Emirhan (aka **derthert**)
+## About Me
+I mainly work on Minecraft server systems, backend services, and web integrations. My focus is less about individual features and more about building systems that can run reliably long-term.
 
-### 🌐 Web Developer • 🔧 Minecraft Systems Developer • 🎨 Creative Developer • 📌 Project Coordinator
+Most of my work happens in private or production environments, with occasional public releases of smaller tools or experiments.
 
-I focus on building **scalable game ecosystems and backend-driven platforms**, primarily within the Minecraft server space.
-
-My work combines software development, system architecture, and project coordination to create structured and maintainable digital environments.
-
-- Designing custom Minecraft server systems and gameplay mechanics  
-- Building backend services, automation tools, and web integrations  
-- Structuring scalable infrastructures with performance in mind  
-- Managing long-term projects with clean architecture principles  
-
-Most of my work happens in private or production environments, with occasional open-source releases.
-
-### Vision — Next-Generation Minecraft Systems
-My goal is to modernize traditional Minecraft server mechanics and transform them into next-generation player experiences through player-first design, automation, integration, and scalable architectures.
+### Vision
+Instead of simply adding new features, I aim to rethink existing Minecraft server mechanics and rebuild them with a more modern and sustainable approach.
 
 </details>
