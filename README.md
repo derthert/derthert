@@ -21,7 +21,7 @@ Projelerimin büyük kısmı canlı ortamlar için geliştirildiği için herkes
 
 ---
 
-## 🎯 Vizyon — Yeni Nesil Minecraft Sistemleri
+## 🎯 Vizyon
 Minecraft sunucu piyasasında kullanılan birçok sistem yıllar önceki anlayışla tasarlanmış durumda. Çalışmalarımda amacım mevcut sistemlere sadece yeni özellikler eklemek değil, onları modern bir yaklaşımla yeniden düşünmek.
 
 Odaklandığım şeyler:
