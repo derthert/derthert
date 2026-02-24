@@ -1,8 +1,8 @@
 # 👋 Merhaba, ben Emirhan (aka **derthert**)
 
-### Web Geliştirici • Minecraft Sistem Geliştiricisi • Creative Developer • Proje Koordinatörü
+### Web Geliştirici • Minecraft Geliştirici • Proje Koordinatör
 
-> Çalışmalarımın büyük kısmı private projelerde ve aktif üretim ortamlarında geliştirilmektedir.  
+> Çalışmalarımın büyük kısmı özel projelerde ve aktif üretim ortamlarında geliştirilmektedir.  
 > Açık kaynakta ise zaman zaman küçük araçlar ve deneysel projeler paylaşırım.
 
 ---
