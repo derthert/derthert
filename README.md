@@ -17,7 +17,7 @@ Genelde yaptığım işler:
 - Performans ve ölçeklenebilirlik odaklı altyapılar tasarlamak  
 - Uzun vadeli projeleri daha sürdürülebilir hale getirmek  
 
-Projelerimin büyük kısmı canlı ortamlar için geliştirildiği için herkese açık repo sayım sınırlı.
+Projelerimin büyük kısmı canlı ortamlarda geliştirildiği için herkese açık repo sayım sınırlı.
 
 ---
 
