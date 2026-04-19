@@ -1,57 +1,80 @@
-# 👋 Selam, ben Emirhan (`derthert`)
+# 👋 Merhaba, ben Emirhan (aka **derthert**)
 
-### Geliştirici · Sistem Mimarı · Proje Koordinatörü
+### Web Geliştirici • Minecraft Geliştirici • Proje Koordinatör
 
-> İşlerimin büyük kısmı kapalı projelerde, kendi halinde çalışan sistemlerin arkasında oluyor.
+> Çalışmalarımın büyük kısmı özel projelerde ve aktif üretim ortamlarında geliştirilmektedir.  
+> Açık kaynakta ise zaman zaman küçük araçlar ve deneysel projeler paylaşırım.
 
 ---
 
 ## 🚀 Hakkımda
+Minecraft ekosistemi merkezli olmak üzere oyun sistemleri, backend servisleri ve web entegrasyonları geliştiriyorum. Daha çok tek tek özellikler üretmekten ziyade, uzun süre çalışabilecek sistemler kurmaya odaklanıyorum.
 
-Uzun zamandır oyun ve sistem geliştirme üzerine çalışıyorum. Bir şeyleri sıfırdan kurmayı, üzerine düşünmeyi ve gerektiğinde yeniden yapmayı tercih ediyorum.
+Genelde yaptığım işler:
 
-Genelde uğraştığım işler:
+- Minecraft sunucuları için özel sistemler ve oyun mekanikleri geliştirmek
+- Backend servisleri ve otomasyon süreçleri oluşturmak
+- Performans ve ölçeklenebilirlik odaklı altyapılar tasarlamak
+- Uzun vadeli projeleri daha sürdürülebilir hale getirmek
 
-- Minecraft sunucu sistemleri ve oyun mekanikleri
-- Backend servisleri ve otomasyonlar
-- Web panelleri ve entegrasyonlar
-- Sistem mimarisi ve altyapı tasarımı
-
-## 🎯 Vizyon
-
-Minecraft sunucu ekosisteminde kullanılan birçok sistem yıllar önceki anlayışla tasarlanmış durumda. Ben bu sistemleri sıfırdan ele alıp; hem oyuncu deneyimini iyileştirmeye hem de yönetimi kolay, ölçeklenebilir bir altyapıya kavuşturmaya çalışıyorum.
-
-## 🛠️ Teknoloji
-
-![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-
-## 📬 İletişim
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1017095901933748297)
+Projelerimin büyük kısmı canlı ortamlarda geliştirildiği için herkese açık repo sayım sınırlı.
 
 ---
 
-<sub>*Create · Develop · Manage*</sub>
+## 🎯 Vizyon
+Minecraft sunucu piyasasında kullanılan birçok sistem yıllar önceki anlayışla tasarlanmış durumda. Çalışmalarımda amacım mevcut sistemlere sadece yeni özellikler eklemek değil, onları modern bir yaklaşımla yeniden düşünmek.
+
+Odaklandığım şeyler:
+
+- Oyuncu açısından daha anlaşılır ve akıcı sistemler
+- Gereksiz tekrarları azaltan otomasyonlar
+- Oyun içi mekaniklerin web ve backend tarafıyla bağlantılı çalışması
+- Veri odaklı ekonomi ve dengeleme yaklaşımları
+- Modüler ve uzun vadede yönetilebilir altyapılar
+
+Kısaca hedefim, mevcut sistemleri büyütmekten çok onları **daha modern ve sürdürülebilir hale getirmek**.
+
+---
+
+## 🛠️ Teknoloji Yığını
+
+### Diller & Teknolojiler
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📦 Öne Çıkan Çalışmalar
+- Minecraft sunucu sistemleri ve plugin geliştirme
+- Web panelleri ve servis entegrasyonları
+- Otomasyon araçları ve backend çözümleri
+- Sistem mimarisi ve altyapı tasarımı
+
+---
+
+## 📬 İletişim
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1017095901933748297)
+
+---
+
+Create • Develop • Manage
+
+---
 
 <details>
-<summary>English</summary>
+<summary>English version</summary>
 
-I'm Emirhan, usually known as `derthert`. Most of my work lives inside private projects and quietly runs in the background.
+## About Me
+I mainly work on Minecraft server systems, backend services, and web integrations. My focus is less about individual features and more about building systems that can run reliably long-term.
 
-I've been working on game and system development for a long time. I prefer building things from scratch, taking the time to think them through, and rebuilding when needed.
+Most of my work happens in private or production environments, with occasional public releases of smaller tools or experiments.
 
-What I usually work on:
-
-- Minecraft server systems and gameplay mechanics
-- Backend services and automation
-- Web panels and integrations
-- System architecture and infrastructure design
-
-I'd rather rethink existing systems than stack new features on top. A system simply working isn't enough; it should also feel right to the person using it. What I value most is a system that just keeps running quietly on its own.
+### Vision
+Instead of simply adding new features, I aim to rethink existing Minecraft server mechanics and rebuild them with a more modern and sustainable approach.
 
 </details>
