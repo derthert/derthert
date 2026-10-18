@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="64" viewBox="0 0 250 64" role="img" aria-label="E-posta">
+  <rect x="1" y="1" width="248" height="62" rx="14" fill="#0b0a09" stroke="#2a2622" stroke-width="1.5"/>
+  <g fill="none" stroke="#ff5b2e" stroke-width="2" stroke-linejoin="round"><rect x="29" y="24" width="22" height="16" rx="2"/><path d="M29 26l11 8 11-8"/></g>
+  <text x="66" y="38" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#f2efe9">E-posta</text>
+  <text x="224" y="39" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" fill="#f2efe9" fill-opacity="0.7">↗</text>
+</svg>
