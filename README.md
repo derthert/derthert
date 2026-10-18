@@ -4,15 +4,15 @@
 
 ### 👋 Merhaba, ben Emirhan
 
-İstanbul'da bağımsız çalışan bir yazılım geliştiricisi ve sistem mimarıyım. Uzun yıllardır web platformları, backend servisleri, masaüstü uygulamalar ve oyun sunucusu altyapıları geliştiriyorum. Şirketler, ekipler ve topluluklarla fikir aşamasından canlı ortama kadar sürecin her adımında birlikte çalışıyorum.
+İstanbul'da bağımsız çalışan bir yazılım geliştiricisi ve sistem mimarıyım.<br/>
+Web platformları, backend servisleri, masaüstü uygulamalar<br/>
+ve oyun sunucusu altyapıları geliştiriyorum.
 
-Her işe net bir planla başlarım. Kapsamı, mimariyi ve teknik kararları baştan netleştirir, ilerlemeyi düzenli ara teslimlerle görünür tutarım. Benim için çalışan kod yeterli değil: okunabilir, test edilebilir ve yıllar sonra başka bir geliştirici devraldığında da kolayca anlaşılabilir olmalı.
+Her işe net bir planla başlarım. Benim için çalışan kod yeterli değil;<br/>
+okunabilir, test edilebilir ve uzun vadede sürdürülebilir olmalı.
 
-Mevcut bir yapı ihtiyacı karşılamıyorsa onu yamamak yerine doğru temeller üzerine yeniden kurmayı tercih ederim. Özellikle Minecraft sunucu ekosisteminde, yıllar önceki anlayışla tasarlanmış birçok sistemi sıfırdan ele alıp hem oyuncu deneyimini hem de yönetim tarafını iyileştirmeye odaklanıyorum.
-
-Hazır çözümlere bağımlı kalmak yerine ihtiyaç duyulan yapıyı uçtan uca kurmayı seviyorum. Hedefim rekabet değil, istikrarlı gelişim: her projede bir öncekinden daha sağlam ve daha temiz işler ortaya koymak.
-
-Türkçe ve İngilizce çalışıyorum; uzaktan ve proje bazlı iş birliklerine açığım.
+Bir yapı ihtiyacı karşılamıyorsa onu yamamak yerine<br/>
+doğru temeller üzerine yeniden kurmayı tercih ederim.
 
 <sub>Çalışmalarımın çoğu müşterilere özel ve kapalı kaynak.</sub>
 
@@ -25,15 +25,15 @@ Türkçe ve İngilizce çalışıyorum; uzaktan ve proje bazlı iş birliklerine
 <details>
 <summary>English</summary>
 
-I'm Emirhan, an independent software developer and systems architect based in Istanbul. I've spent years building web platforms, backend services, desktop applications and game server infrastructure, working with companies, teams and communities from the first idea all the way to production.
+I'm an independent software developer and systems architect based in Istanbul.<br/>
+I build web platforms, backend services, desktop applications<br/>
+and game server infrastructure.
 
-I start every project with a clear plan. I settle scope, architecture and technical decisions early, and keep progress visible through regular deliveries. Working code isn't enough for me: it has to be readable, testable and easy to understand when another developer takes it over years later.
+I start every project with a clear plan. Working code isn't enough for me;<br/>
+it has to be readable, testable and maintainable in the long run.
 
-When an existing system doesn't fit the need, I'd rather rebuild it on the right foundations than patch it. In the Minecraft server ecosystem in particular, I rework many systems designed with an outdated mindset, improving both the player experience and the management side.
-
-I enjoy building what's needed end to end instead of depending on off-the-shelf solutions. My goal isn't competition but steady growth: delivering work that is more solid and cleaner than the last.
-
-I work in Turkish and English, and I'm open to remote and project-based collaborations.
+When a system doesn't fit the need, I'd rather rebuild it<br/>
+on the right foundations than patch it.
 
 <sub>Most of my work is client-specific and closed-source. Visit <a href="https://derthert.com">derthert.com</a> for more.</sub>
 
