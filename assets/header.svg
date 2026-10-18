@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Emirhan, derthert: Yazılım Geliştirici ve Sistem Mimarı">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" role="img" aria-label="Emirhan, derthert: Yazılım Geliştirici ve Sistem Mimarı">
   <defs>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse" x="640" y="150">
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse" x="640" y="120">
       <path d="M32 0H0V32" fill="none" stroke="#f2efe9" stroke-opacity="0.045" stroke-width="1"/>
     </pattern>
     <radialGradient id="glow" cx="50%" cy="0%" r="55%">
@@ -11,7 +11,7 @@
       <stop offset="0.55" stop-color="#0b0a09" stop-opacity="0"/>
       <stop offset="1" stop-color="#0b0a09" stop-opacity="0.9"/>
     </radialGradient>
-    <clipPath id="frame"><rect width="1280" height="300" rx="18"/></clipPath>
+    <clipPath id="frame"><rect width="1280" height="240" rx="18"/></clipPath>
     <style>
       .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
       .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
@@ -25,23 +25,23 @@
   </defs>
 
   <g clip-path="url(#frame)">
-    <rect width="1280" height="300" fill="#0b0a09"/>
-    <rect width="1280" height="300" fill="url(#grid)"/>
-    <rect width="1280" height="300" fill="url(#glow)"/>
-    <rect width="1280" height="300" fill="url(#vignette)"/>
+    <rect width="1280" height="240" fill="#0b0a09"/>
+    <rect width="1280" height="240" fill="url(#grid)"/>
+    <rect width="1280" height="240" fill="url(#glow)"/>
+    <rect width="1280" height="240" fill="url(#vignette)"/>
 
     <g class="rise">
-      <text x="640" y="88" text-anchor="middle" class="mono" font-size="15" fill="#ff5b2e" letter-spacing="2">~/derthert<tspan class="blink">_</tspan></text>
+      <text x="640" y="62" text-anchor="middle" class="mono" font-size="15" fill="#ff5b2e" letter-spacing="2">~/derthert<tspan class="blink">_</tspan></text>
     </g>
     <g class="rise2">
-      <text x="640" y="162" text-anchor="middle" class="sans" font-size="68" font-weight="700" fill="#f2efe9" letter-spacing="-1.5">Emirhan</text>
+      <text x="640" y="130" text-anchor="middle" class="sans" font-size="68" font-weight="700" fill="#f2efe9" letter-spacing="-1.5">Emirhan</text>
     </g>
     <g class="rise3">
-      <text x="640" y="204" text-anchor="middle" class="sans" font-size="22" fill="#f2efe9" fill-opacity="0.85">Yazılım Geliştirici <tspan fill="#ff5b2e">·</tspan> Sistem Mimarı</text>
-      <rect x="616" y="226" width="48" height="3" rx="1.5" fill="#ff5b2e"/>
-      <text x="640" y="258" text-anchor="middle" class="mono" font-size="14" fill="#8c877f" letter-spacing="0.5">backend · web · masaüstü · oyun sunucuları</text>
+      <text x="640" y="168" text-anchor="middle" class="sans" font-size="22" fill="#f2efe9" fill-opacity="0.85">Yazılım Geliştirici <tspan fill="#ff5b2e">·</tspan> Sistem Mimarı</text>
+      <rect x="616" y="186" width="48" height="3" rx="1.5" fill="#ff5b2e"/>
+      <text x="640" y="214" text-anchor="middle" class="mono" font-size="14" fill="#8c877f" letter-spacing="0.5">backend · web · masaüstü · oyun sunucuları</text>
     </g>
 
-    <rect x="0.5" y="0.5" width="1279" height="299" rx="18" fill="none" stroke="#f2efe9" stroke-opacity="0.08"/>
+    <rect x="0.5" y="0.5" width="1279" height="239" rx="18" fill="none" stroke="#f2efe9" stroke-opacity="0.08"/>
   </g>
 </svg>
