@@ -1,57 +1,49 @@
-# 👋 Selam, ben Emirhan (`derthert`)
+<img src="assets/header.svg" width="100%" alt="Emirhan, derthert: Yazılım Geliştirici ve Sistem Mimarı" />
 
-### Geliştirici · Sistem Mimarı · Proje Koordinatörü
+<div align="center">
 
-> İşlerimin büyük kısmı kapalı projelerde, kendi halinde çalışan sistemlerin arkasında oluyor.
+<br/>
 
----
+<img src="https://derthert.com/assets/avatar-320.jpg" width="120" alt="Emirhan" />
 
-## 🚀 Hakkımda
+### 👋 Merhaba
 
-Uzun zamandır oyun ve sistem geliştirme üzerine çalışıyorum. Bir şeyleri sıfırdan kurmayı, üzerine düşünmeyi ve gerektiğinde yeniden yapmayı tercih ediyorum.
+İstanbul'da bağımsız çalışan bir yazılım geliştiricisiyim.<br/>
+Şirketler ve ekiplerle sağlam temelli, bakımı kolay ve büyümeye hazır sistemler kuruyorum.<br/>
+<sub>Çalışmalarımın çoğu müşterilere özel ve kapalı kaynak.</sub>
 
-Genelde uğraştığım işler:
+### 💼 Neler Yapıyorum
 
-- Minecraft sunucu sistemleri ve oyun mekanikleri
-- Backend servisleri ve otomasyonlar
-- Web panelleri ve entegrasyonlar
-- Sistem mimarisi ve altyapı tasarımı
+Backend & Altyapı · Web Uygulamaları · Yönetim Panelleri<br/>
+Oyun Sunucusu Sistemleri · Masaüstü Uygulamalar · Otomasyon
 
-## 🎯 Vizyon
+### 🛠️ Teknolojiler
 
-Minecraft sunucu ekosisteminde kullanılan birçok sistem yıllar önceki anlayışla tasarlanmış durumda. Ben bu sistemleri sıfırdan ele alıp; hem oyuncu deneyimini iyileştirmeye hem de yönetimi kolay, ölçeklenebilir bir altyapıya kavuşturmaya çalışıyorum.
+<img src="https://skillicons.dev/icons?i=java,php,laravel,ts,react,nextjs,nodejs,electron,mysql,linux&theme=dark" alt="Teknolojiler" />
 
-## 🛠️ Teknoloji
+### 📊 GitHub
 
-![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=derthert&hide_border=true&background=0b0a09&ring=ff5b2e&fire=ff5b2e&currStreakNum=f2efe9&sideNums=f2efe9&currStreakLabel=ff5b2e&sideLabels=8c877f&dates=8c877f&locale=tr" alt="GitHub seri" />
 
-## 📬 İletişim
+### 📬 İletişim
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1017095901933748297)
+[derthert.com](https://derthert.com) · [contact@derthert.com](mailto:contact@derthert.com) · [Discord](https://discord.com/users/1017095901933748297)
 
----
-
-<sub>*Create · Develop · Manage*</sub>
+<br/>
 
 <details>
 <summary>English</summary>
 
-I'm Emirhan, usually known as `derthert`. Most of my work lives inside private projects and quietly runs in the background.
+<br/>
 
-I've been working on game and system development for a long time. I prefer building things from scratch, taking the time to think them through, and rebuilding when needed.
-
-What I usually work on:
-
-- Minecraft server systems and gameplay mechanics
-- Backend services and automation
-- Web panels and integrations
-- System architecture and infrastructure design
-
-Many systems used in the Minecraft server ecosystem were designed with an outdated mindset. I take these systems from the ground up and aim to improve both the player experience and provide a manageable, scalable infrastructure.
+I'm an independent software developer based in Istanbul,<br/>
+building solid, maintainable and scalable systems with companies and teams.<br/>
+<sub>Most of my work is client-specific and closed-source.</sub>
 
 </details>
+
+<br/>
+
+</div>
+
+<img src="assets/footer.svg" width="100%" alt="Create · Develop · Manage" />
