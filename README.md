@@ -1,8 +1,8 @@
 <a href="https://derthert.com"><img src="assets/header.svg" width="100%" alt="Emirhan, derthert: Yazılım Geliştirici ve Sistem Mimarı" /></a>
 
-<table>
-<tr>
-<td align="center" valign="middle">
+<img align="right" vspace="40" src="https://derthert.com/assets/avatar-320.jpg" width="200" alt="Emirhan" />
+
+<div align="center">
 
 ### 👋 Merhaba, ben Emirhan
 
@@ -16,22 +16,17 @@ Her işe net bir planla başlarım; kapsamı ve teknik kararları baştan netle�
 <a href="mailto:contact@derthert.com"><img src="https://img.shields.io/badge/E--posta-0b0a09?style=for-the-badge&logo=gmail&logoColor=ff5b2e" alt="E-posta" /></a>
 <a href="https://discord.com/users/1017095901933748297"><img src="https://img.shields.io/badge/Discord-0b0a09?style=for-the-badge&logo=discord&logoColor=ff5b2e" alt="Discord" /></a>
 
-</td>
-<td width="220" align="center" valign="middle">
-<img src="https://derthert.com/assets/avatar-320.jpg" width="200" alt="Emirhan" />
-</td>
-</tr>
-</table>
+</div>
+
+<br clear="right" />
 
 <div align="center">
 
-### 🛠️ Teknolojiler
+### 🛠️ Teknolojiler ve GitHub
 
-<img src="https://skillicons.dev/icons?i=java,php,laravel,ts,react,nextjs,nodejs,electron,mysql,linux&theme=dark" alt="Teknolojiler" />
-
-### 📊 GitHub
-
-<img src="https://streak-stats.demolab.com?user=derthert&hide_border=true&background=0b0a09&ring=ff5b2e&fire=ff5b2e&currStreakNum=f2efe9&sideNums=f2efe9&currStreakLabel=ff5b2e&sideLabels=8c877f&dates=8c877f&locale=tr" alt="GitHub seri" />
+<img height="150" src="https://skillicons.dev/icons?i=java,php,laravel,ts,react,nextjs,nodejs,electron,mysql,linux&perline=5&theme=dark" alt="Teknolojiler" />
+&nbsp;&nbsp;&nbsp;
+<img height="150" src="https://streak-stats.demolab.com?user=derthert&hide_border=true&background=0b0a09&ring=ff5b2e&fire=ff5b2e&currStreakNum=f2efe9&sideNums=f2efe9&currStreakLabel=ff5b2e&sideLabels=8c877f&dates=8c877f&locale=tr" alt="GitHub seri" />
 
 <details>
 <summary>English</summary>
