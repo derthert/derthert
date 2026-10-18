@@ -26,16 +26,11 @@
     <circle cx="30" cy="26" r="7" fill="#ff5f57"/>
     <circle cx="54" cy="26" r="7" fill="#febc2e"/>
     <circle cx="78" cy="26" r="7" fill="#28c840"/>
-    <text x="560.0" y="31" text-anchor="middle" class="s" font-size="14" fill="#8c877f">emirhan@derthert: ~</text>
+    <text x="560.0" y="31" text-anchor="middle" class="s" font-size="14" fill="#8c877f">root@derthert: ~</text>
     <text x="1092" y="31" text-anchor="end" class="m" style="font-size:13px" fill="#5f5a54">derthert.com</text>
 
-  <clipPath id="ty104"><rect x="310.2" y="80" width="0" height="34">
-    <animate attributeName="width" begin="0.65s" dur="0.56s" calcMode="discrete" values="0.0;18.2;30.4;42.6;54.8;67.0;79.2;91.4;103.6;137.6" fill="freeze"/>
-  </rect></clipPath>
-  <g class="a" style="animation-delay:0.40s">
-    <text x="56" y="104" class="m"><tspan fill="#ff5b2e">emirhan@derthert</tspan><tspan fill="#5f5a54"> ~ </tspan><tspan fill="#f2efe9">$ </tspan></text>
-    <text x="312.2" y="104" class="m" fill="#f2efe9" clip-path="url(#ty104)">neofetch</text>
-  </g>
+  <g class="a" style="animation-delay:0.40s"><text y="104" class="m"><tspan x="56.0 68.0 80.0 92.0 104.0 116.0 128.0 140.0 152.0 164.0 176.0 188.0 200.0" fill="#ff5b2e">root@derthert</tspan><tspan x="224.0" fill="#5f5a54">~</tspan><tspan x="248.0" fill="#f2efe9">#</tspan></text></g>
+  <g><text x="272.0" y="104" class="m a" fill="#f2efe9" style="animation-delay:0.65s">n</text><text x="284.0" y="104" class="m a" fill="#f2efe9" style="animation-delay:0.72s">e</text><text x="296.0" y="104" class="m a" fill="#f2efe9" style="animation-delay:0.79s">o</text><text x="308.0" y="104" class="m a" fill="#f2efe9" style="animation-delay:0.86s">f</text><text x="320.0" y="104" class="m a" fill="#f2efe9" style="animation-delay:0.93s">e</text><text x="332.0" y="104" class="m a" fill="#f2efe9" style="animation-delay:1.00s">t</text><text x="344.0" y="104" class="m a" fill="#f2efe9" style="animation-delay:1.07s">c</text><text x="356.0" y="104" class="m a" fill="#f2efe9" style="animation-delay:1.14s">h</text></g>
   <g class="a" style="animation-delay:1.46s">
     <clipPath id="av"><rect x="56" y="136" width="280" height="280" rx="16"/></clipPath>
     <image x="56" y="136" width="280" height="280" clip-path="url(#av)" preserveAspectRatio="xMidYMid slice"
@@ -44,63 +39,53 @@
     <rect x="48" y="128" width="296" height="296" rx="22" fill="none" stroke="#ff5b2e" stroke-opacity="0.35"/>
   </g>
   <g class="a" style="animation-delay:1.51s">
-    <text x="392" y="160" class="m" font-weight="700"><tspan fill="#ff5b2e">emirhan</tspan><tspan fill="#f2efe9">@</tspan><tspan fill="#ff5b2e">derthert</tspan></text>
-    <rect x="392" y="176" width="195.2" height="2" fill="#2a2622"/>
+    <text x="392" y="160" class="m" font-weight="700"><tspan fill="#ff5b2e">root</tspan><tspan fill="#f2efe9">@</tspan><tspan fill="#ff5b2e">derthert</tspan></text>
+    <rect x="392" y="176" width="156.0" height="2" fill="#2a2622"/>
   </g>
   <g class="a" style="animation-delay:1.58s">
     <text x="392" y="216" class="m"><tspan fill="#ff5b2e" font-weight="700">Rol</tspan></text>
-    <text x="514.0" y="216" class="m" fill="#f2efe9">Yazılım Geliştirici · Sistem Mimarı</text>
+    <text x="512.0" y="216" class="m" fill="#f2efe9">Yazılım Geliştirici · Sistem Mimarı</text>
   </g>
   <g class="a" style="animation-delay:1.67s">
     <text x="392" y="248" class="m"><tspan fill="#ff5b2e" font-weight="700">Konum</tspan></text>
-    <text x="514.0" y="248" class="m" fill="#f2efe9">İstanbul, Türkiye</text>
+    <text x="512.0" y="248" class="m" fill="#f2efe9">İstanbul, Türkiye</text>
   </g>
   <g class="a" style="animation-delay:1.76s">
     <text x="392" y="280" class="m"><tspan fill="#ff5b2e" font-weight="700">Uzmanlık</tspan></text>
-    <text x="514.0" y="280" class="m" fill="#f2efe9">Backend · Web Platformları · Masaüstü</text>
+    <text x="512.0" y="280" class="m" fill="#f2efe9">Backend · Web Platformları · Masaüstü</text>
   </g>
   <g class="a" style="animation-delay:1.85s">
     <text x="392" y="312" class="m"></text>
-    <text x="514.0" y="312" class="m" fill="#f2efe9">Oyun Sunucusu Altyapısı · Otomasyon</text>
+    <text x="512.0" y="312" class="m" fill="#f2efe9">Oyun Sunucusu Altyapısı · Otomasyon</text>
   </g>
   <g class="a" style="animation-delay:1.94s">
     <text x="392" y="344" class="m"><tspan fill="#ff5b2e" font-weight="700">Stack</tspan></text>
-    <text x="514.0" y="344" class="m" fill="#f2efe9">Java · PHP · Laravel · TypeScript · React</text>
+    <text x="512.0" y="344" class="m" fill="#f2efe9">Java · PHP · Laravel · TypeScript · React</text>
   </g>
   <g class="a" style="animation-delay:2.03s">
     <text x="392" y="376" class="m"></text>
-    <text x="514.0" y="376" class="m" fill="#f2efe9">Next.js · Node.js · Electron · MySQL · Linux</text>
+    <text x="512.0" y="376" class="m" fill="#f2efe9">Next.js · Node.js · Electron · MySQL · Linux</text>
   </g>
   <g class="a" style="animation-delay:2.12s">
     <text x="392" y="408" class="m"><tspan fill="#ff5b2e" font-weight="700">Dil</tspan></text>
-    <text x="514.0" y="408" class="m" fill="#f2efe9">Türkçe · English</text>
+    <text x="512.0" y="408" class="m" fill="#f2efe9">Türkçe · English</text>
   </g>
   <g class="a" style="animation-delay:2.21s">
     <text x="392" y="440" class="m"><tspan fill="#ff5b2e" font-weight="700">Web</tspan></text>
-    <text x="514.0" y="440" class="m" fill="#f2efe9">derthert.com</text>
+    <text x="512.0" y="440" class="m" fill="#f2efe9">derthert.com</text>
   </g>
   <g class="a" style="animation-delay:2.30s"><rect x="392" y="462" width="40" height="22" rx="4" fill="#0b0a09" stroke="#2a2622"/><rect x="436" y="462" width="40" height="22" rx="4" fill="#3a2a22" stroke="#2a2622"/><rect x="480" y="462" width="40" height="22" rx="4" fill="#7a3a22" stroke="#2a2622"/><rect x="524" y="462" width="40" height="22" rx="4" fill="#c24a26" stroke="#2a2622"/><rect x="568" y="462" width="40" height="22" rx="4" fill="#ff5b2e" stroke="#2a2622"/><rect x="612" y="462" width="40" height="22" rx="4" fill="#ff8a5f" stroke="#2a2622"/><rect x="656" y="462" width="40" height="22" rx="4" fill="#d8d2c8" stroke="#2a2622"/><rect x="700" y="462" width="40" height="22" rx="4" fill="#f2efe9" stroke="#2a2622"/></g>
-  <clipPath id="ty540"><rect x="310.2" y="516" width="0" height="34">
-    <animate attributeName="width" begin="3.01s" dur="0.98s" calcMode="discrete" values="0.0;18.2;30.4;42.6;54.8;67.0;79.2;91.4;103.6;115.8;128.0;140.2;152.4;164.6;176.8;210.8" fill="freeze"/>
-  </rect></clipPath>
-  <g class="a" style="animation-delay:2.76s">
-    <text x="56" y="540" class="m"><tspan fill="#ff5b2e">emirhan@derthert</tspan><tspan fill="#5f5a54"> ~ </tspan><tspan fill="#f2efe9">$ </tspan></text>
-    <text x="312.2" y="540" class="m" fill="#f2efe9" clip-path="url(#ty540)">cat vizyon.txt</text>
-  </g>
+  <g class="a" style="animation-delay:2.76s"><text y="540" class="m"><tspan x="56.0 68.0 80.0 92.0 104.0 116.0 128.0 140.0 152.0 164.0 176.0 188.0 200.0" fill="#ff5b2e">root@derthert</tspan><tspan x="224.0" fill="#5f5a54">~</tspan><tspan x="248.0" fill="#f2efe9">#</tspan></text></g>
+  <g><text x="272.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.01s">c</text><text x="284.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.08s">a</text><text x="296.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.15s">t</text><text x="320.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.29s">v</text><text x="332.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.36s">i</text><text x="344.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.43s">z</text><text x="356.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.50s">y</text><text x="368.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.57s">o</text><text x="380.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.64s">n</text><text x="392.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.71s">.</text><text x="404.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.78s">t</text><text x="416.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.85s">x</text><text x="428.0" y="540" class="m a" fill="#f2efe9" style="animation-delay:3.92s">t</text></g>
   <g class="a" style="animation-delay:4.19s"><text x="56" y="576" class="m" fill="#f2efe9" fill-opacity="0.88">Fikirden canlı ortama, uçtan uca yazılım geliştiriyorum.</text></g>
   <g class="a" style="animation-delay:4.37s"><text x="56" y="608" class="m" fill="#f2efe9" fill-opacity="0.88">Sağlam temeller, temiz kod ve uzun ömürlü ürünler.</text></g>
   <g class="a" style="animation-delay:4.55s"><text x="56" y="640" class="m" fill="#f2efe9" fill-opacity="0.88">Bir yapı ihtiyacı karşılamıyorsa yamamam; doğru temeller üzerine yeniden kurarım.</text></g>
-  <clipPath id="ty696"><rect x="310.2" y="672" width="0" height="34">
-    <animate attributeName="width" begin="5.48s" dur="1.75s" calcMode="discrete" values="0.0;18.2;30.4;42.6;54.8;67.0;79.2;91.4;103.6;115.8;128.0;140.2;152.4;164.6;176.8;189.0;201.2;213.4;225.6;237.8;250.0;262.2;274.4;286.6;298.8;311.0;345.0" fill="freeze"/>
-  </rect></clipPath>
-  <g class="a" style="animation-delay:5.23s">
-    <text x="56" y="696" class="m"><tspan fill="#ff5b2e">emirhan@derthert</tspan><tspan fill="#5f5a54"> ~ </tspan><tspan fill="#f2efe9">$ </tspan></text>
-    <text x="312.2" y="696" class="m" fill="#f2efe9" clip-path="url(#ty696)">open https://derthert.com</text>
-  </g>
+  <g class="a" style="animation-delay:5.23s"><text y="696" class="m"><tspan x="56.0 68.0 80.0 92.0 104.0 116.0 128.0 140.0 152.0 164.0 176.0 188.0 200.0" fill="#ff5b2e">root@derthert</tspan><tspan x="224.0" fill="#5f5a54">~</tspan><tspan x="248.0" fill="#f2efe9">#</tspan></text></g>
+  <g><text x="272.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:5.48s">o</text><text x="284.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:5.55s">p</text><text x="296.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:5.62s">e</text><text x="308.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:5.69s">n</text><text x="332.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:5.83s">h</text><text x="344.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:5.90s">t</text><text x="356.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:5.97s">t</text><text x="368.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.04s">p</text><text x="380.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.11s">s</text><text x="392.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.18s">:</text><text x="404.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.25s">/</text><text x="416.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.32s">/</text><text x="428.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.39s">d</text><text x="440.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.46s">e</text><text x="452.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.53s">r</text><text x="464.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.60s">t</text><text x="476.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.67s">h</text><text x="488.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.74s">e</text><text x="500.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.81s">r</text><text x="512.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.88s">t</text><text x="524.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:6.95s">.</text><text x="536.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:7.02s">c</text><text x="548.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:7.09s">o</text><text x="560.0" y="696" class="m a" fill="#f2efe9" style="animation-delay:7.16s">m</text></g>
   <g class="a" style="animation-delay:7.48s"><text x="56" y="732" class="m"><tspan fill="#ff5b2e">→</tspan><tspan fill="#8c877f"> derthert.com açılıyor. Yeni projeler için bir mesaj uzağınızdayım.</tspan></text></g>
   <g class="a" style="animation-delay:7.98s">
-    <text x="56" y="784" class="m"><tspan fill="#ff5b2e">emirhan@derthert</tspan><tspan fill="#5f5a54"> ~ </tspan><tspan fill="#f2efe9">$ </tspan></text>
-    <rect x="312.2" y="766" width="11" height="23" fill="#ff5b2e" class="blink"/>
+    <text y="784" class="m"><tspan x="56.0 68.0 80.0 92.0 104.0 116.0 128.0 140.0 152.0 164.0 176.0 188.0 200.0" fill="#ff5b2e">root@derthert</tspan><tspan x="224.0" fill="#5f5a54">~</tspan><tspan x="248.0" fill="#f2efe9">#</tspan></text>
+    <rect x="272.0" y="766" width="11" height="23" fill="#ff5b2e" class="blink"/>
   </g>
   </g>
   <rect x="0.5" y="0.5" width="1119" height="819" rx="18" fill="none" stroke="#f2efe9" stroke-opacity="0.10"/>
