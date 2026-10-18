@@ -56,33 +56,6 @@ Bir işe başlamadan önce problemi doğru anlamaya zaman ayırırım. Hızlı a
 </tr>
 </table>
 
-## 🧩 Nasıl Çalışırım
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-<h3>01</h3>
-<b>Keşif & Plan</b><br/>
-<sub>Kapsam ve teknik kararlar işe başlamadan netleşir</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<h3>02</h3>
-<b>Geliştirme</b><br/>
-<sub>Düzenli ara teslimlerle, her adımı görünür şekilde</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<h3>03</h3>
-<b>Kalite</b><br/>
-<sub>Okunabilir, test edilebilir ve devralınabilir kod</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<h3>04</h3>
-<b>Teslim & Destek</b><br/>
-<sub>Dokümantasyon, yayına alma ve sonrasında destek</sub>
-</td>
-</tr>
-</table>
-
 ## 🛠️ Teknoloji Yığını
 
 <table>
@@ -151,8 +124,6 @@ Before writing any code, I take the time to understand the problem properly. I'd
 - **Desktop Software**: cross-platform applications for Windows, macOS and Linux
 - **Automation**: tools and bots that streamline workflows, support and community operations
 - **Technical Consulting**: architecture decisions, system reviews and restructuring plans
-
-**How I work:** discovery & planning · iterative development · maintainable code · delivery & support
 
 **Get in touch:** [contact@derthert.com](mailto:contact@derthert.com) · [derthert.com](https://derthert.com) · [Discord](https://discord.com/users/1017095901933748297)
 
